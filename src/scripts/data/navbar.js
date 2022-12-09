@@ -31,7 +31,9 @@ class Navbar extends HTMLElement {
                             <a class="nav-link py-3 fs-6" href="#/kami">Kami</a>
                         </li>
                     </ul>
-                </div>`;
+                </div>
+             </div>
+        </nav>`;
   }
 }
 
